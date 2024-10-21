@@ -9,7 +9,7 @@ Una sencilla aplicación de consola Java que convierte monedas utilizando la Exc
 
 ## Comenzando
 
-1. Clona este repositorio: git clone [https://github.com/tu-usuario/conversor-de-monedas.git](https://github.com/kalethsi/Conversor-de-monedas)
+1. Clona este repositorio: git clone [https://github.com/kalethsi/conversor-de-monedas.git](https://github.com/kalethsi/Conversor-de-monedas)
    
 2. Abre el proyecto en tu IDE de Java favorito.
 
